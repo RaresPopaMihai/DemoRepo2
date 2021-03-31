@@ -1,0 +1,3 @@
+#I am a text file
+I dont do much
+I am added
